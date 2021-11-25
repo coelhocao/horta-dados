@@ -1,0 +1,19 @@
+nome_comum,variedade,nome_especifico,tipo_hortalica,inicio_plantio,termino_plantio,temp_min,temp_max,temp_otima_min,temp_otima_max,tipo_plantio,espaçamento_na linha (cm),espaçamento_entre_linhas (cm),irrigação*dia,colheita(pós-transplantio),Pordutividade_Esperada,Sucessão_ecologica,Sucessão_Gotsch,Estrato_florestal,
+Alface,"Aurélia, White-Boston, Hanson, Great-Lakes, Simpson, Grand-rapids",Lactuca sativa,folhosa,Março,Julho,7,25,17,22,"semente, muda",30,30,1,40-60,,,,medio,Alface
+Alho,"Gigante, Amarante, Chines, Dourado",Allium sativum L,bulbo,Março,Abril,NA,NA,12,20,bulbilho (dente),7,20,7,120-150,,,,medio,Alho
+Batata,"Aracy, Chiquita, Achat, Radosa, Baronesa, Santo-amor, Delta, Baraka",Solanum tuberosum L.,tuberculo,ano_todo,ano_todo,10,22,15,18,broto,35,80,3,90-100,,,,medio,Batata
+Batata-doce,"Jacareí, Monalisa, Coquinho, Braslandia-roxa, Braslandia-rosada, Braslandia-branca",Ipomoea batatas,raíz,Outubro,Fevereiro,NA,NA,16,25,rama nova,40,80,3,NA,,,,baixo,Batata-doce
+Mandioquinha-salsa,,A. xanthorrhiza,raíz,"Fevereiro, Setembro","Março, Outubro",10,28,15,18,muda,30,80,3,300-360,,,,medio,Mandioquinha-salsa
+Berinjela,,Solanum melongena L,fruto,ano_todo,ano_todo,NA,NA,15,25,"semente, muda",100,100,4,90-100,,,,alto,Berinjela
+beterraba,,Beta vulgaris,raíz,Abril,Julho,NA,NA,7,22,"semente, muda",25,25,1,70-90,,,,medio,beterraba
+Cebola,,Allium cepa,bulbo,Fevereiro,Abril,NA,NA,15,20,"semente, muda",10,40,4,NA,,,,medio,Cebola
+Cebolinha,,Allium fistulosum,folhosa,ano_todo,ano_todo,NA,NA,8,22,"semente, muda",10,20,1,80-100,,,,alto,Cebolinha
+Cenoura,"Inverno: Nante, Verao: Brasilia, Kuroda, Tropical, Kuronan",Daucus carota,raíz,"Março, Setembro","Junho, Janeiro",NA,25,8,22,semente,0.5,30,3,70-120,,,,medio,Cenoura
+Chuchu,,Sechium edule,fruto,"ano_todo, Novembro","ano_todo, Janeiro",NA,NA,22,25,broto,400,400,3,NA,,,,NA,Chuchu
+Coentro,,Coriandrum sativum,folhosa,"ano_todo, Setembro","ano_todo, Março",NA,NA,18,25,sesmente,0.5,30,1,50-60,,,,medio,Coentro
+Couve,,Brassica oleracea,folhosa,"ano_todo, Março, Setembro","ano_todo, Junho, Janeiro",NA,28,7,22,"semente, muda",50,100,1,70,,,,alto,Couve
+Couve-flor,,Brassica oleracea,flor,"ano_todo, Março, Setembro","ano_todo, Junho, Janeiro",NA,28,7,22,"semente, muda",50,80,1,70-100,,,,alto,Couve-flor
+Repolho,,Brassica oleracea,folhosa,"ano_todo, Março, Setembro","ano_todo, Junho, Janeiro",NA,28,7,22,"semente, muda",50,80,1,70-90,,,,alto,Repolho
+Milho,,Zea mays,legume,Setembro,Novembro,NA,NA,24,30,semente,20,80,3,NA,,,,emergente,Milho
+Pimentão,,Capsicum annuum,fruto,"ano_todo, Agosto","ano_todo, Outubro",NA,NA,18,25,"semente, muda",40,80,3,100-120,,,,alto,Pimentão
+Tomate,,Solanum lycopersicum,fruto,ano_todo,ano_todo,NA,NA,15,25,"semente, muda",50,100,3,90-100,,,,alto,Tomate
